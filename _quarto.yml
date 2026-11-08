@@ -5,6 +5,7 @@
 project:
   type: default
   render:
+    - code/deidentify.qmd	
     - code/processing.qmd
     - code/analysis.qmd
   # run each file with its own folder as the working directory
