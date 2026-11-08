@@ -52,7 +52,7 @@ A codebook (data dictionary) describes every variable in the processed data. The
 # write.csv(data_processed, "../data/processed/stage-processed_data.csv", row.names = FALSE)
 
 placeholder <- "TO BE COMPLETED MANUALLY"
-codebook_path <- "../data/processed/stage-processed_codebook.csv"
+codebook_path <- "../data/processed/data_processed_codebook.csv"
 
 # range for numeric and date variables, unique values otherwise
 summarise_values <- function(x) {

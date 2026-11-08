@@ -1,7 +1,13 @@
 # Wrangling Assignment
 
 ## Overview
-Add aims, data sources, and reproduction steps.
+This project processes and analyses **simulated data** on (implicit) racial attitudes and Social Dominance Orientation. The data do not come from real participants.
+They were provided by Ian Hussey as part of the wrangling assignment for the course *Reproducible data processing and visualization in R*.
+The study measured Social Dominance Orientation (SDO-7; Ho et al., 2015), self-reported racial evaluations (3 items), and implicit racial evaluations (Implicit Association Test), as well as age and gender.
+
+To reproduce all results, open the `.Rproj` file and click *Build > Render Project* (see Reproducibility below).
+
+**De-identification:** the original demographics file contains identifying information (email addresses, and names in the comments) and is not shared. It is kept in `data/raw/private/`, which is listed in `.gitignore`. `code/deidentify.qmd` removes the identifiers and writes the de-identified copy to `data/raw/study-irasdo_task-demographics_stage-raw_data.csv`. Because the original file is not shared, only the author can run this script, so it is not part of the render list in `_quarto.yml`. The de-identified file is already included, so the project renders without it.
 
 ## Structure
 ```
@@ -85,7 +91,7 @@ There are two ways to document the variables, and you do not need both:
 CC BY 4.0 (see `LICENSE`).
 
 ## Suggested citation
-Authors (Year). Title. URL.
+Gnaser, D. (2026). Wrangling Assignment. https://github.com/davidg0815/Wrangling-Assignment
 
 `CITATION.cff` holds this citation in a machine-readable format. On GitHub, it adds a *Cite this repository* button to the repository page (right-hand sidebar) that gives APA and BibTeX citations, and Zenodo reads it when archiving a release.
 

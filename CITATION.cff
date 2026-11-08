@@ -8,12 +8,11 @@
 # one. Documentation: https://citation-file-format.github.io
 cff-version: 1.2.0
 message: "If you use this project, please cite it as below."
-title: "title goes here"
+title: "Wrangling Assignment"
 authors:
-  - family-names: "family name goes here"
-    given-names: "given name goes here"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Gnaser"
+    given-names: "David"
 date-released: "2026-11-08"
 license: CC-BY-4.0
-repository-code: "https://github.com/username/repository"
+repository-code: "https://github.com/davidg0815/Wrangling-Assignment"
 # doi: 10.5281/zenodo.0000000
