@@ -1,0 +1,742 @@
+Id ,item,response
+P001,SR_item1,Neither agree nor disagree
+P001,SR_item2,Neither agree nor disagree
+P001,SR_item3,Agree
+P002,SR_item1,Agree
+P002,SR_item2,Agree
+P002,SR_item3,Agree
+P003,SR_item1,Disagree
+P003,SR_item2,Strongly agree
+P003,SR_item3,Strongly agree
+P004,SR_item1,Neither agree nor disagree
+P004,SR_item2,Neither agree nor disagree
+P004,SR_item3,Disagree
+P005,SR_item1,Disagree
+P005,SR_item2,Neither agree nor disagree
+P005,SR_item3,Agree
+P006,SR_item1,Neither agree nor disagree
+P006,SR_item2,Neither agree nor disagree
+P006,SR_item3,Agree
+P007,SR_item1,Disagree
+P007,SR_item2,Disagree
+P007,SR_item3,Disagree
+P008,SR_item1,Strongly disagree
+P008,SR_item2,Neither agree nor disagree
+P008,SR_item3,Disagree
+P009,SR_item1,Agree
+P009,SR_item2,Neither agree nor disagree
+P009,SR_item3,Agree
+P010,SR_item1,Agree
+P010,SR_item2,Strongly agree
+P010,SR_item3,Strongly agree
+P010,SR_item1,Agree
+P010,SR_item2,Strongly agree
+P010,SR_item3,
+P011,SR_item1,Disagree
+P011,SR_item2,Neither agree nor disagree
+P011,SR_item3,Disagree
+P012,SR_item1,Agree
+P012,SR_item2,Agree
+P012,SR_item3,Agree
+P013,SR_item1,Disagree
+P013,SR_item2,Disagree
+P013,SR_item3,Disagree
+P014,SR_item1,Neither agree nor disagree
+P014,SR_item2,Disagree
+P014,SR_item3,Disagree
+P015,SR_item1,Neither agree nor disagree
+P015,SR_item2,Strongly agree
+P015,SR_item3,Neither agree nor disagree
+P016,SR_item1,Strongly disagree
+P016,SR_item2,-99
+P016,SR_item3,Agree
+P017,SR_item1,Strongly disagree
+P017,SR_item2,Strongly disagree
+P017,SR_item3,Strongly disagree
+P018,SR_item1,Neither agree nor disagree
+P018,SR_item2,Disagree
+P018,SR_item3,Agree
+P019,SR_item1,Disagree
+P019,SR_item2,Disagree
+P019,SR_item3,Strongly disagree
+P020,SR_item1,Strongly agree
+P020,SR_item2,Agree
+P020,SR_item3,Strongly agree
+P021,SR_item1,Neither agree nor disagree
+P021,SR_item2,Strongly agree
+P021,SR_item3,Disagree
+P022,SR_item1,Disagree
+P022,SR_item2,Disagree
+P022,SR_item3,Agree
+P023,SR_item1,Strongly disagree
+P023,SR_item2,Neither agree nor disagree
+P023,SR_item3,Agree
+P024,SR_item1,Strongly disagree
+P024,SR_item2,Disagree
+P024,SR_item3,Neither agree nor disagree
+P025,SR_item1,-99
+P025,SR_item2,Neither agree nor disagree
+P025,SR_item3,Disagree
+P026,SR_item1,Strongly agree
+P026,SR_item2,Agree
+P026,SR_item3,Agree
+P027,SR_item1,Strongly agree
+P027,SR_item2,Strongly agree
+P027,SR_item3,Strongly agree
+P028,SR_item1,Agree
+P028,SR_item2,Strongly agree
+P028,SR_item3,Strongly agree
+P029,SR_item1,Neither agree nor disagree
+P029,SR_item2,Neither agree nor disagree
+P029,SR_item3,Agree
+P030,SR_item1,Agree
+P030,SR_item2,Agree
+P030,SR_item3,Neither agree nor disagree
+P031,SR_item1,Neither agree nor disagree
+P031,SR_item2,Agree
+P031,SR_item3,Agree
+P032,SR_item1,Disagree
+P032,SR_item2,Neither agree nor disagree
+P032,SR_item3,Neither agree nor disagree
+P033,SR_item1,Disagree
+P033,SR_item2,Neither agree nor disagree
+P033,SR_item3,Neither agree nor disagree
+P033,SR_item1,Disagree
+P033,SR_item2,Neither agree nor disagree
+P033,SR_item3,Neither agree nor disagree
+P034,SR_item1,Disagree
+P034,SR_item2,Neither agree nor disagree
+P034,SR_item3,-99
+P035,SR_item1,Agree
+P035,SR_item2,Agree
+P035,SR_item3,Agree
+P036,SR_item1,Strongly agree
+P036,SR_item2,Neither agree nor disagree
+P036,SR_item3,Neither agree nor disagree
+P037,SR_item1,Disagree
+P037,SR_item2,Disagree
+P037,SR_item3,Neither agree nor disagree
+P038,SR_item1,Neither agree nor disagree
+P038,SR_item2,Strongly disagree
+P038,SR_item3,Disagree
+P039,SR_item1,Neither agree nor disagree
+P039,SR_item2,Neither agree nor disagree
+P039,SR_item3,Neither agree nor disagree
+P040,SR_item1,Strongly agree
+P040,SR_item2,Neither agree nor disagree
+P040,SR_item3,Disagree
+P041,SR_item1,Neither agree nor disagree
+P041,SR_item2,Agree
+P041,SR_item3,Strongly disagree
+P042,SR_item1,Disagree
+P042,SR_item2,Neither agree nor disagree
+P042,SR_item3,Agree
+P043,SR_item1,Neither agree nor disagree
+P043,SR_item2,Disagree
+P043,SR_item3,Strongly disagree
+P044,SR_item1,Agree
+P044,SR_item2,Neither agree nor disagree
+P044,SR_item3,Disagree
+P045,SR_item1,Agree
+P045,SR_item2,Strongly agree
+P045,SR_item3,Strongly agree
+P046,SR_item1,Strongly disagree
+P046,SR_item2,Strongly disagree
+P046,SR_item3,Neither agree nor disagree
+P047,SR_item1,Disagree
+P047,SR_item2,Agree
+P047,SR_item3,Disagree
+P048,SR_item1,Neither agree nor disagree
+P048,SR_item2,Disagree
+P048,SR_item3,Neither agree nor disagree
+P049,SR_item1,Neither agree nor disagree
+P049,SR_item2,Disagree
+P049,SR_item3,Disagree
+P050,SR_item1,Agree
+P050,SR_item2,Neither agree nor disagree
+P050,SR_item3,Neither agree nor disagree
+P051,SR_item1,Neither agree nor disagree
+P051,SR_item2,Neither agree nor disagree
+P051,SR_item3,Disagree
+P052,SR_item1,Strongly disagree
+P052,SR_item2,Disagree
+P052,SR_item3,Neither agree nor disagree
+P053,SR_item1,Strongly agree
+P053,SR_item2,Disagree
+P053,SR_item3,Agree
+P054,SR_item1,Strongly agree
+P054,SR_item2,Disagree
+P054,SR_item3,Strongly agree
+P055,SR_item1,Agree
+P055,SR_item2,Agree
+P055,SR_item3,Disagree
+P056,SR_item1,Disagree
+P056,SR_item2,Disagree
+P056,SR_item3,Neither agree nor disagree
+P057,SR_item1,Neither agree nor disagree
+P057,SR_item2,Strongly agree
+P057,SR_item3,Neither agree nor disagree
+P058,SR_item1,Disagree
+P058,SR_item2,Agree
+P058,SR_item3,Neither agree nor disagree
+P059,SR_item1,Strongly agree
+P059,SR_item2,Agree
+P059,SR_item3,Agree
+P060,SR_item1,Strongly disagree
+P060,SR_item2,Disagree
+P060,SR_item3,Strongly disagree
+P061,SR_item1,Agree
+P061,SR_item2,Disagree
+P061,SR_item3,-99
+P062,SR_item1,Agree
+P062,SR_item2,-99
+P062,SR_item3,-99
+P063,SR_item1,Neither agree nor disagree
+P063,SR_item2,Neither agree nor disagree
+P063,SR_item3,Neither agree nor disagree
+P064,SR_item1,Disagree
+P064,SR_item2,Neither agree nor disagree
+P064,SR_item3,Agree
+P065,SR_item1,Disagree
+P065,SR_item2,Neither agree nor disagree
+P065,SR_item3,Neither agree nor disagree
+P065,SR_item1,Disagree
+P065,SR_item2,Neither agree nor disagree
+P065,SR_item3,Neither agree nor disagree
+P066,SR_item1,Strongly disagree
+P066,SR_item2,Strongly disagree
+P066,SR_item3,Disagree
+P067,SR_item1,Neither agree nor disagree
+P067,SR_item2,Agree
+P067,SR_item3,Agree
+P068,SR_item1,Agree
+P068,SR_item2,Neither agree nor disagree
+P068,SR_item3,Neither agree nor disagree
+P069,SR_item1,Neither agree nor disagree
+P069,SR_item2,Disagree
+P069,SR_item3,Neither agree nor disagree
+P070,SR_item1,Disagree
+P070,SR_item2,Strongly agree
+P070,SR_item3,Agree
+P071,SR_item1,Neither agree nor disagree
+P071,SR_item2,Disagree
+P071,SR_item3,Disagree
+P072,SR_item1,Strongly disagree
+P072,SR_item2,Disagree
+P072,SR_item3,Neither agree nor disagree
+P073,SR_item1,Neither agree nor disagree
+P073,SR_item2,Neither agree nor disagree
+P073,SR_item3,Neither agree nor disagree
+P074,SR_item1,Neither agree nor disagree
+P074,SR_item2,Disagree
+P074,SR_item3,Agree
+P075,SR_item1,Neither agree nor disagree
+P075,SR_item2,Agree
+P075,SR_item3,Strongly agree
+P076,SR_item1,Disagree
+P076,SR_item2,Neither agree nor disagree
+P076,SR_item3,Strongly disagree
+P077,SR_item1,Neither agree nor disagree
+P077,SR_item2,Disagree
+P077,SR_item3,Agree
+P078,SR_item1,Disagree
+P078,SR_item2,Disagree
+P078,SR_item3,Disagree
+P079,SR_item1,Disagree
+P079,SR_item2,Strongly disagree
+P079,SR_item3,Strongly disagree
+P080,SR_item1,Neither agree nor disagree
+P080,SR_item2,Neither agree nor disagree
+P080,SR_item3,Disagree
+P081,SR_item1,Agree
+P081,SR_item2,Neither agree nor disagree
+P081,SR_item3,Disagree
+P081,SR_item1,Agree
+P081,SR_item2,Neither agree nor disagree
+P081,SR_item3,Disagree
+P082,SR_item1,Neither agree nor disagree
+P082,SR_item2,Agree
+P082,SR_item3,Agree
+P083,SR_item1,Strongly agree
+P083,SR_item2,Strongly disagree
+P083,SR_item3,Neither agree nor disagree
+P084,SR_item1,Strongly agree
+P084,SR_item2,Strongly agree
+P084,SR_item3,Agree
+P085,SR_item1,Agree
+P085,SR_item2,Neither agree nor disagree
+P085,SR_item3,Strongly disagree
+P086,SR_item1,Agree
+P086,SR_item2,Strongly disagree
+P086,SR_item3,Disagree
+P087,SR_item1,Strongly disagree
+P087,SR_item2,Agree
+P087,SR_item3,Agree
+P088,SR_item1,Agree
+P088,SR_item2,Neither agree nor disagree
+P088,SR_item3,Agree
+P089,SR_item1,Strongly agree
+P089,SR_item2,Strongly agree
+P089,SR_item3,Strongly agree
+P090,SR_item1,Agree
+P090,SR_item2,Strongly disagree
+P090,SR_item3,Agree
+P091,SR_item1,Disagree
+P091,SR_item2,Neither agree nor disagree
+P091,SR_item3,Disagree
+P092,SR_item1,Disagree
+P092,SR_item2,Neither agree nor disagree
+P092,SR_item3,Disagree
+P093,SR_item1,Agree
+P093,SR_item2,Neither agree nor disagree
+P093,SR_item3,Agree
+P094,SR_item1,Disagree
+P094,SR_item2,Disagree
+P094,SR_item3,-99
+P095,SR_item1,Strongly agree
+P095,SR_item2,Strongly agree
+P095,SR_item3,Agree
+P096,SR_item1,Disagree
+P096,SR_item2,Neither agree nor disagree
+P096,SR_item3,Disagree
+P097,SR_item1,Agree
+P097,SR_item2,Neither agree nor disagree
+P097,SR_item3,Agree
+P098,SR_item1,Neither agree nor disagree
+P098,SR_item2,Strongly disagree
+P098,SR_item3,Neither agree nor disagree
+P099,SR_item1,Agree
+P099,SR_item2,Strongly agree
+P099,SR_item3,Strongly agree
+P100,SR_item1,Neither agree nor disagree
+P100,SR_item2,Strongly disagree
+P100,SR_item3,Neither agree nor disagree
+P101,SR_item1,Agree
+P101,SR_item2,Neither agree nor disagree
+P101,SR_item3,Agree
+P102,SR_item1,Disagree
+P102,SR_item2,Neither agree nor disagree
+P102,SR_item3,Disagree
+P103,SR_item1,Disagree
+P103,SR_item2,Neither agree nor disagree
+P103,SR_item3,Strongly agree
+P104,SR_item1,Disagree
+P104,SR_item2,Neither agree nor disagree
+P104,SR_item3,Strongly disagree
+P105,SR_item1,Neither agree nor disagree
+P105,SR_item2,Disagree
+P105,SR_item3,Disagree
+P106,SR_item1,Agree
+P106,SR_item2,Neither agree nor disagree
+P106,SR_item3,Agree
+P107,SR_item1,Neither agree nor disagree
+P107,SR_item2,Disagree
+P107,SR_item3,Agree
+P108,SR_item1,Disagree
+P108,SR_item2,Agree
+P108,SR_item3,Neither agree nor disagree
+P109,SR_item1,Agree
+P109,SR_item2,Disagree
+P109,SR_item3,Agree
+P110,SR_item1,-99
+P110,SR_item2,Neither agree nor disagree
+P110,SR_item3,Strongly agree
+P111,SR_item1,Disagree
+P111,SR_item2,Disagree
+P111,SR_item3,Disagree
+P112,SR_item1,Strongly agree
+P112,SR_item2,Agree
+P112,SR_item3,Neither agree nor disagree
+P113,SR_item1,Disagree
+P113,SR_item2,Strongly disagree
+P113,SR_item3,Agree
+P114,SR_item1,Neither agree nor disagree
+P114,SR_item2,Strongly disagree
+P114,SR_item3,-99
+P115,SR_item1,Disagree
+P115,SR_item2,Disagree
+P115,SR_item3,Strongly disagree
+P116,SR_item1,Agree
+P116,SR_item2,Strongly disagree
+P116,SR_item3,Strongly disagree
+P117,SR_item1,Neither agree nor disagree
+P117,SR_item2,Neither agree nor disagree
+P117,SR_item3,Disagree
+P118,SR_item1,Strongly disagree
+P118,SR_item2,Strongly disagree
+P118,SR_item3,-99
+P119,SR_item1,Neither agree nor disagree
+P119,SR_item2,Disagree
+P119,SR_item3,Neither agree nor disagree
+P120,SR_item1,Disagree
+P120,SR_item2,Neither agree nor disagree
+P120,SR_item3,Disagree
+P121,SR_item1,Neither agree nor disagree
+P121,SR_item2,Agree
+P121,SR_item3,Strongly agree
+P122,SR_item1,Agree
+P122,SR_item2,Disagree
+P122,SR_item3,Agree
+P124,SR_item1,Strongly disagree
+P124,SR_item2,Strongly disagree
+P124,SR_item3,Neither agree nor disagree
+P124,SR_item1,Strongly disagree
+P124,SR_item2,Strongly disagree
+P124,SR_item3,Neither agree nor disagree
+P125,SR_item1,Disagree
+P125,SR_item2,Strongly disagree
+P125,SR_item3,Disagree
+P126,SR_item1,-99
+P126,SR_item2,Strongly agree
+P126,SR_item3,Strongly agree
+P127,SR_item1,Disagree
+P127,SR_item2,Neither agree nor disagree
+P127,SR_item3,Neither agree nor disagree
+P128,SR_item1,Disagree
+P128,SR_item2,Agree
+P128,SR_item3,Disagree
+P129,SR_item1,Disagree
+P129,SR_item2,
+P129,SR_item3,
+P130,SR_item1,Neither agree nor disagree
+P130,SR_item2,Agree
+P130,SR_item3,Neither agree nor disagree
+P131,SR_item1,Neither agree nor disagree
+P131,SR_item2,Disagree
+P131,SR_item3,Disagree
+P132,SR_item1,Disagree
+P132,SR_item2,Neither agree nor disagree
+P132,SR_item3,Neither agree nor disagree
+P133,SR_item1,Agree
+P133,SR_item2,Disagree
+P133,SR_item3,Neither agree nor disagree
+P134,SR_item1,Agree
+P134,SR_item2,Neither agree nor disagree
+P134,SR_item3,Disagree
+P135,SR_item1,Disagree
+P135,SR_item2,Agree
+P135,SR_item3,Disagree
+P135,SR_item1,Disagree
+P135,SR_item2,Agree
+P135,SR_item3,Disagree
+P136,SR_item1,Neither agree nor disagree
+P136,SR_item2,Disagree
+P136,SR_item3,Agree
+P137,SR_item1,Strongly disagree
+P137,SR_item2,Strongly disagree
+P137,SR_item3,Disagree
+P138,SR_item1,Strongly disagree
+P138,SR_item2,Strongly disagree
+P138,SR_item3,Strongly disagree
+P139,SR_item1,Strongly agree
+P139,SR_item2,Disagree
+P139,SR_item3,Neither agree nor disagree
+P140,SR_item1,Strongly disagree
+P140,SR_item2,Disagree
+P140,SR_item3,Strongly disagree
+P141,SR_item1,Neither agree nor disagree
+P141,SR_item2,Disagree
+P141,SR_item3,Neither agree nor disagree
+P142,SR_item1,Strongly agree
+P142,SR_item2,Agree
+P142,SR_item3,Strongly agree
+P143,SR_item1,Disagree
+P143,SR_item2,Neither agree nor disagree
+P143,SR_item3,Agree
+P144,SR_item1,Strongly disagree
+P144,SR_item2,Disagree
+P144,SR_item3,Agree
+P145,SR_item1,Disagree
+P145,SR_item2,-99
+P145,SR_item3,Neither agree nor disagree
+P146,SR_item1,Disagree
+P146,SR_item2,Disagree
+P146,SR_item3,Neither agree nor disagree
+P147,SR_item1,Agree
+P147,SR_item2,Strongly agree
+P147,SR_item3,Strongly agree
+P148,SR_item1,Agree
+P148,SR_item2,Agree
+P148,SR_item3,Neither agree nor disagree
+P149,SR_item1,Disagree
+P149,SR_item2,Agree
+P149,SR_item3,Neither agree nor disagree
+P150,SR_item1,Disagree
+P150,SR_item2,Agree
+P150,SR_item3,Neither agree nor disagree
+P151,SR_item1,Disagree
+P151,SR_item2,Disagree
+P151,SR_item3,Neither agree nor disagree
+P152,SR_item1,Disagree
+P152,SR_item2,Agree
+P152,SR_item3,Agree
+P153,SR_item1,Neither agree nor disagree
+P153,SR_item2,Agree
+P153,SR_item3,Disagree
+P154,SR_item1,Strongly disagree
+P154,SR_item2,Disagree
+P154,SR_item3,Disagree
+P155,SR_item1,Agree
+P155,SR_item2,Strongly agree
+P155,SR_item3,Neither agree nor disagree
+P156,SR_item1,Neither agree nor disagree
+P156,SR_item2,Agree
+P156,SR_item3,Agree
+P157,SR_item1,Neither agree nor disagree
+P157,SR_item2,Agree
+P157,SR_item3,Agree
+P158,SR_item1,Strongly disagree
+P158,SR_item2,Neither agree nor disagree
+P158,SR_item3,Strongly disagree
+P159,SR_item1,Disagree
+P159,SR_item2,Strongly disagree
+P159,SR_item3,Disagree
+P160,SR_item1,Disagree
+P160,SR_item2,Neither agree nor disagree
+P160,SR_item3,Strongly agree
+P161,SR_item1,Disagree
+P161,SR_item2,
+P161,SR_item3,
+P162,SR_item1,Disagree
+P162,SR_item2,Disagree
+P162,SR_item3,Strongly disagree
+P163,SR_item1,Agree
+P163,SR_item2,Strongly agree
+P163,SR_item3,Strongly agree
+P164,SR_item1,Disagree
+P164,SR_item2,Strongly disagree
+P164,SR_item3,Agree
+P165,SR_item1,Strongly agree
+P165,SR_item2,Agree
+P165,SR_item3,Agree
+P166,SR_item1,Disagree
+P166,SR_item2,Disagree
+P166,SR_item3,Neither agree nor disagree
+P167,SR_item1,Disagree
+P167,SR_item2,Neither agree nor disagree
+P167,SR_item3,Agree
+P169,SR_item1,Disagree
+P169,SR_item2,Agree
+P169,SR_item3,Agree
+P170,SR_item1,-99
+P170,SR_item2,Disagree
+P170,SR_item3,Neither agree nor disagree
+P171,SR_item1,Disagree
+P171,SR_item2,Disagree
+P171,SR_item3,Disagree
+P172,SR_item1,Agree
+P172,SR_item2,Disagree
+P172,SR_item3,Neither agree nor disagree
+P173,SR_item1,Disagree
+P173,SR_item2,Neither agree nor disagree
+P173,SR_item3,Disagree
+P174,SR_item1,Agree
+P174,SR_item2,Agree
+P174,SR_item3,Disagree
+P175,SR_item1,Agree
+P175,SR_item2,Strongly agree
+P175,SR_item3,Strongly agree
+P176,SR_item1,Disagree
+P176,SR_item2,Strongly disagree
+P176,SR_item3,Strongly disagree
+P177,SR_item1,Disagree
+P177,SR_item2,Neither agree nor disagree
+P177,SR_item3,Neither agree nor disagree
+P178,SR_item1,Neither agree nor disagree
+P178,SR_item2,Strongly agree
+P178,SR_item3,Disagree
+P178,SR_item1,Neither agree nor disagree
+P178,SR_item2,Strongly agree
+P178,SR_item3,Disagree
+P179,SR_item1,Neither agree nor disagree
+P179,SR_item2,Neither agree nor disagree
+P179,SR_item3,Neither agree nor disagree
+P180,SR_item1,Strongly disagree
+P180,SR_item2,Neither agree nor disagree
+P180,SR_item3,Neither agree nor disagree
+P181,SR_item1,Agree
+P181,SR_item2,Strongly agree
+P181,SR_item3,Agree
+P182,SR_item1,Neither agree nor disagree
+P182,SR_item2,Neither agree nor disagree
+P182,SR_item3,Disagree
+P183,SR_item1,Agree
+P183,SR_item2,Agree
+P183,SR_item3,Strongly agree
+P184,SR_item1,Neither agree nor disagree
+P184,SR_item2,Strongly disagree
+P184,SR_item3,Disagree
+P185,SR_item1,Strongly disagree
+P185,SR_item2,Strongly disagree
+P185,SR_item3,Strongly disagree
+P186,SR_item1,Neither agree nor disagree
+P186,SR_item2,Neither agree nor disagree
+P186,SR_item3,Disagree
+P187,SR_item1,Strongly disagree
+P187,SR_item2,Strongly disagree
+P187,SR_item3,Neither agree nor disagree
+P188,SR_item1,Agree
+P188,SR_item2,Strongly agree
+P188,SR_item3,Agree
+P189,SR_item1,Neither agree nor disagree
+P189,SR_item2,Strongly disagree
+P189,SR_item3,Disagree
+P190,SR_item1,Agree
+P190,SR_item2,Agree
+P190,SR_item3,Neither agree nor disagree
+P191,SR_item1,Neither agree nor disagree
+P191,SR_item2,Disagree
+P191,SR_item3,Disagree
+P192,SR_item1,Agree
+P192,SR_item2,Disagree
+P192,SR_item3,Disagree
+P193,SR_item1,Neither agree nor disagree
+P193,SR_item2,Agree
+P193,SR_item3,Neither agree nor disagree
+P194,SR_item1,Neither agree nor disagree
+P194,SR_item2,Neither agree nor disagree
+P194,SR_item3,Neither agree nor disagree
+P195,SR_item1,Disagree
+P195,SR_item2,Strongly disagree
+P195,SR_item3,Agree
+P196,SR_item1,Neither agree nor disagree
+P196,SR_item2,Neither agree nor disagree
+P196,SR_item3,Agree
+P197,SR_item1,Disagree
+P197,SR_item2,Strongly agree
+P197,SR_item3,Agree
+P198,SR_item1,Neither agree nor disagree
+P198,SR_item2,Disagree
+P198,SR_item3,Strongly disagree
+P200,SR_item1,Neither agree nor disagree
+P200,SR_item2,Agree
+P200,SR_item3,Neither agree nor disagree
+P201,SR_item1,Disagree
+P201,SR_item2,Agree
+P201,SR_item3,Strongly disagree
+P202,SR_item1,Agree
+P202,SR_item2,Agree
+P202,SR_item3,Strongly disagree
+P203,SR_item1,Strongly agree
+P203,SR_item2,Neither agree nor disagree
+P203,SR_item3,Agree
+P204,SR_item1,Strongly disagree
+P204,SR_item2,Neither agree nor disagree
+P204,SR_item3,Strongly disagree
+P205,SR_item1,Neither agree nor disagree
+P205,SR_item2,Neither agree nor disagree
+P205,SR_item3,Strongly agree
+P206,SR_item1,Strongly agree
+P206,SR_item2,Neither agree nor disagree
+P206,SR_item3,Agree
+P207,SR_item1,Disagree
+P207,SR_item2,Disagree
+P207,SR_item3,Neither agree nor disagree
+P208,SR_item1,Strongly disagree
+P208,SR_item2,Neither agree nor disagree
+P208,SR_item3,Strongly disagree
+P209,SR_item1,Agree
+P209,SR_item2,Neither agree nor disagree
+P209,SR_item3,Neither agree nor disagree
+P210,SR_item1,Agree
+P210,SR_item2,Agree
+P210,SR_item3,Agree
+P211,SR_item1,Strongly disagree
+P211,SR_item2,Disagree
+P211,SR_item3,Neither agree nor disagree
+P212,SR_item1,Disagree
+P212,SR_item2,Neither agree nor disagree
+P212,SR_item3,Disagree
+P213,SR_item1,Strongly disagree
+P213,SR_item2,Disagree
+P213,SR_item3,Disagree
+P214,SR_item1,Neither agree nor disagree
+P214,SR_item2,Agree
+P214,SR_item3,Strongly disagree
+P215,SR_item1,Agree
+P215,SR_item2,Agree
+P215,SR_item3,Agree
+P216,SR_item1,Neither agree nor disagree
+P216,SR_item2,Disagree
+P216,SR_item3,
+P217,SR_item1,Strongly agree
+P217,SR_item2,Agree
+P217,SR_item3,Strongly agree
+P218,SR_item1,Neither agree nor disagree
+P218,SR_item2,Neither agree nor disagree
+P218,SR_item3,Strongly disagree
+P219,SR_item1,Agree
+P219,SR_item2,Strongly agree
+P219,SR_item3,Agree
+P220,SR_item1,Neither agree nor disagree
+P220,SR_item2,Agree
+P220,SR_item3,Neither agree nor disagree
+P221,SR_item1,Disagree
+P221,SR_item2,Agree
+P221,SR_item3,Disagree
+P222,SR_item1,Neither agree nor disagree
+P222,SR_item2,Disagree
+P222,SR_item3,Disagree
+P223,SR_item1,Strongly agree
+P223,SR_item2,Agree
+P223,SR_item3,Disagree
+P223,SR_item1,Strongly agree
+P223,SR_item2,Agree
+P223,SR_item3,Disagree
+P224,SR_item1,Agree
+P224,SR_item2,-99
+P224,SR_item3,Neither agree nor disagree
+P225,SR_item1,Neither agree nor disagree
+P225,SR_item2,Neither agree nor disagree
+P225,SR_item3,Agree
+P226,SR_item1,Neither agree nor disagree
+P226,SR_item2,Disagree
+P226,SR_item3,Neither agree nor disagree
+P227,SR_item1,Agree
+P227,SR_item2,Agree
+P227,SR_item3,Neither agree nor disagree
+P228,SR_item1,Agree
+P228,SR_item2,Agree
+P228,SR_item3,Neither agree nor disagree
+P229,SR_item1,Disagree
+P229,SR_item2,Strongly agree
+P229,SR_item3,Strongly agree
+P230,SR_item1,Agree
+P230,SR_item2,Agree
+P230,SR_item3,Neither agree nor disagree
+P231,SR_item1,Disagree
+P231,SR_item2,Disagree
+P231,SR_item3,Strongly disagree
+P232,SR_item1,Neither agree nor disagree
+P232,SR_item2,Agree
+P232,SR_item3,Neither agree nor disagree
+P233,SR_item1,-99
+P233,SR_item2,Neither agree nor disagree
+P233,SR_item3,Disagree
+P234,SR_item1,Neither agree nor disagree
+P234,SR_item2,Neither agree nor disagree
+P234,SR_item3,Neither agree nor disagree
+P235,SR_item1,Disagree
+P235,SR_item2,Strongly disagree
+P235,SR_item3,-99
+P236,SR_item1,Disagree
+P236,SR_item2,Disagree
+P236,SR_item3,Neither agree nor disagree
+P237,SR_item1,Strongly agree
+P237,SR_item2,Agree
+P237,SR_item3,Strongly agree
+P238,SR_item1,Neither agree nor disagree
+P238,SR_item2,Strongly agree
+P238,SR_item3,Neither agree nor disagree
+P239,SR_item1,Disagree
+P239,SR_item2,Neither agree nor disagree
+P239,SR_item3,Neither agree nor disagree
+P240,SR_item1,-99
+P240,SR_item2,Disagree
+P240,SR_item3,Neither agree nor disagree
+P241,SR_item1,Neither agree nor disagree
+P241,SR_item2,Strongly agree
+P241,SR_item3,Agree
+P211,SR_item1,Agree
+P211,SR_item2,Agree
+P211,SR_item3,Disagree

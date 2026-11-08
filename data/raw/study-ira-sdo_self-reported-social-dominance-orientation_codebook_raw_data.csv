@@ -1,0 +1,18 @@
+variable,item_number,subscale,keying,description,units,coding
+id,,,,Participant ID,none,none
+QID38,12,anti-egalitarianism,pro-trait,"SDO-7 item 12 (Ho et al., 2015)",none,1 = strongly oppose to 7 = strongly favor. 999 = missing (no response). Responses have not been reverse scored.
+QID28,10,anti-egalitarianism,pro-trait,"SDO-7 item 10 (Ho et al., 2015)",none,1 = strongly oppose to 7 = strongly favor. 999 = missing (no response). Responses have not been reverse scored.
+QID14,6,dominance,con-trait (reverse-keyed),"SDO-7 item 6 (Ho et al., 2015)",none,1 = strongly oppose to 7 = strongly favor. 999 = missing (no response). Responses have not been reverse scored.
+QID 57,14,anti-egalitarianism,con-trait (reverse-keyed),"SDO-7 item 14 (Ho et al., 2015)",none,1 = strongly oppose to 7 = strongly favor. 999 = missing (no response). Responses have not been reverse scored.
+QID51,13,anti-egalitarianism,con-trait (reverse-keyed),"SDO-7 item 13 (Ho et al., 2015)",none,1 = strongly oppose to 7 = strongly favor. 999 = missing (no response). Responses have not been reverse scored.
+QID54,11,anti-egalitarianism,pro-trait,"SDO-7 item 11 (Ho et al., 2015)",none,1 = strongly oppose to 7 = strongly favor. 999 = missing (no response). Responses have not been reverse scored.
+QID42,5,dominance,con-trait (reverse-keyed),"SDO-7 item 5 (Ho et al., 2015)",none,1 = strongly oppose to 7 = strongly favor. 999 = missing (no response). Responses have not been reverse scored.
+QID32,15,anti-egalitarianism,con-trait (reverse-keyed),"SDO-7 item 15 (Ho et al., 2015)",none,1 = strongly oppose to 7 = strongly favor. 999 = missing (no response). Responses have not been reverse scored.
+QID48,16,anti-egalitarianism,con-trait (reverse-keyed),"SDO-7 item 16 (Ho et al., 2015)",none,1 = strongly oppose to 7 = strongly favor. 999 = missing (no response). Responses have not been reverse scored.
+QID34,1,dominance,pro-trait,"SDO-7 item 1 (Ho et al., 2015)",none,1 = strongly oppose to 7 = strongly favor. 999 = missing (no response). Responses have not been reverse scored.
+QID40,2,dominance,pro-trait,"SDO-7 item 2 (Ho et al., 2015)",none,1 = strongly oppose to 7 = strongly favor. 999 = missing (no response). Responses have not been reverse scored.
+QID43,8,dominance,con-trait (reverse-keyed),"SDO-7 item 8 (Ho et al., 2015)",none,1 = strongly oppose to 7 = strongly favor. 999 = missing (no response). Responses have not been reverse scored.
+QID26 (old),3,dominance,pro-trait,"SDO-7 item 3 (Ho et al., 2015)",none,1 = strongly oppose to 7 = strongly favor. 999 = missing (no response). Responses have not been reverse scored.
+QID45,4,dominance,pro-trait,"SDO-7 item 4 (Ho et al., 2015)",none,1 = strongly oppose to 7 = strongly favor. 999 = missing (no response). Responses have not been reverse scored.
+0QID49 v2,9,anti-egalitarianism,pro-trait,"SDO-7 item 9 (Ho et al., 2015)",none,1 = strongly oppose to 7 = strongly favor. 999 = missing (no response). Responses have not been reverse scored.
+QID27,7,dominance,con-trait (reverse-keyed),"SDO-7 item 7 (Ho et al., 2015)",none,1 = strongly oppose to 7 = strongly favor. 999 = missing (no response). Responses have not been reverse scored.
