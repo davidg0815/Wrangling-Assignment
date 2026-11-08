@@ -35,7 +35,13 @@ options(scipen = 999)
 
 # Dependencies
 ```{r}
-# packages and setup here
+library(dplyr) # for %>%, rename(), filter(), mutate(), select(), group_by(), summarize()
+library(readr) # for read_csv(), write_csv()
+library(janitor) # for clean_names(), round_half_up()
+library(tidyselect) # for starts_with(), contains(), ends_with() etc.
+library(stringr) # for str_replace_all(), str_to_lower(), str_remove_all()
+library(roundwork) # for round_up()
+library(forcats) # for fct() and fct_ functions such as fct_relevel()
 ```
 
 # Codebook
