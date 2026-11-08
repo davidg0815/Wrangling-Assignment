@@ -4,7 +4,7 @@
 # Add new .qmd files to this list in the order they should run.
 project:
   type: default
-  render:	
+  render:
     - code/processing.qmd
     - code/analysis.qmd
   # run each file with its own folder as the working directory

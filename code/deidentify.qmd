@@ -36,10 +36,34 @@ options(scipen = 999)
 # Dependencies
 
 ```{r}
-# packages and setup here
+library(dplyr) # for %>%, rename(), filter(), mutate(), select(), group_by(), summarize()
+library(readr) # for read_csv(), write_csv()
+```
+
+# Load original data
+
+```{r}
+dat_demographics_private <- read_csv("../data/raw/private/study-irasdo_demographics_raw_data.csv")
+```
+
+# Remove identifiers
+
+The email addresses and the free-text comments were removed because they contain identifying information (the comments contain names). I read them before removal. One participant reported completing the study together with another person, so their responses may not be independent. I did not exclude this participant, because the assignment defines the exclusion criteria and comments are not among them.
+
+```{r}
+dat_demographics_deidentified <- dat_demographics_private %>%
+  select(- "...2", - "...5")
+```
+
+# Write de-identified data
+
+```{r}
+dat_demographics_deidentified %>% 
+  write_csv("../data/raw/study-irasdo_task-demographics_stage-raw_data.csv")
 ```
 
 # Session info
+
 ```{r}
 sessionInfo()
 ```
